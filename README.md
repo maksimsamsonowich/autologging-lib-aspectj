@@ -1,4 +1,4 @@
 # method-auto-logging-library
-Library to autologging methods
+library to autologging methods
 
 auto-logging lib
